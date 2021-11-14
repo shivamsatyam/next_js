@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "google",
+    "slug": "snack-48bce218-3d90-4223-927b-2d3afe66f1e7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.shivamsatyam.snack48bce2183d904223927b2d3afe66f1e7"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
